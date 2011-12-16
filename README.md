@@ -8,11 +8,15 @@ This is a very young but simple project. I have made a merge of two beautiful pr
 
 [**Skeleton**](http://getskeleton.com) - a collection of of media queries to make your website flexible and consistent across screen sizes.
 
-So you get two things, consistency across browsers, and consistency across screen sizes.
+So you get two things, consistency across browsers, and consistency across screen sizes.  
+  
+It's based on the 960 Grid.
 
 
 **What have I then modified?**  
 I have converted Skeleton CSS's widths to percentages and imported Ryan Faith's Sticky Footer. Added some icons made by good friend **Askan**
 Im planning on importing major parts from the HTML5 Mobile Boilerplate in order to allow more mobile rich applications.  But this might be far out, as of now I just want people to enjoy.  
   
-If you want you can reach me by email at: <hello@dechowmedia.com>
+If you want you can reach me by email at: <hello@dechowmedia.com>  
+  
+###Huge thanks to both teams behind Skeleton & HTML5 Boilerplate###
