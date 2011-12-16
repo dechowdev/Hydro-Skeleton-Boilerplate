@@ -1,4 +1,4 @@
-![Bone](http://dechowmedia.com/hsb/img/bone.png)
+![Bone](http://dechowmedia.com/hsb/img/bone.png) 
 #Hydro Skeleton Boilerplate#
 ##Skeleton CSS & HTML5 Boilerplate goodness in one neat package##
 
